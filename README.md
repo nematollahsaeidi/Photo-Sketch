@@ -4,7 +4,7 @@ This repository contains the Python code used to generate contours from input im
 
 **"Incorporating shape dependent power law in motion planning for drawing robots."**
 
-This code represents a key step in the pipeline, where contours are drawn for each input image. The process begins with an input image file, which is processed by this Python script to extract contours based on shape-dependent characteristics. The resulting contour data is then ready to be used as input for a robot motion planning system implemented in MATLAB.
+This code represents a key step in the pipeline, where contours are drawn for each input image. The process begins with an input image file, which is processed by this Python script to extract contours based on shape-dependent characteristics. The resulting contour data is then ready to be used as input for a robot motion planning system implemented in MATLAB. Also, PyInstaller was used to convert the Python scripts into executable files. 
 
 Watch the demo of the process [here](https://drive.google.com/file/d/1wdcnfzniAV10ynTZ6B3fJIujHWtvkS_P/view?usp=drive_link)
 
