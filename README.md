@@ -6,7 +6,7 @@ This repository contains the Python code used to generate contours from input im
 
 This code represents a key step in the pipeline, where contours are drawn for each input image. The process begins with an input image file, which is processed by this Python script to extract contours based on shape-dependent characteristics. The resulting contour data is then ready to be used as input for a robot motion planning system implemented in MATLAB.
 
-Watch the demo of the process **here**[https://arxiv.org/abs/1901.00542](https://arxiv.org/abs/1901.00542)
+Watch the demo of the process [here](https://drive.google.com/file/d/1wdcnfzniAV10ynTZ6B3fJIujHWtvkS_P/view?usp=drive_link)
 
 ---
 
