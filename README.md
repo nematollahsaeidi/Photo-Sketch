@@ -11,10 +11,7 @@ Watch the demo of the process [here](https://drive.google.com/file/d/1wdcnfzniAV
 ---
 
 ## Reference Work
-The contour drawing process is inspired by the method described in the paper:
-
-**Photo-Sketching: Inferring Contour Drawings from Images**
-[https://arxiv.org/abs/1901.00542](https://arxiv.org/abs/1901.00542)
+The contour drawing process is inspired by the method described in the paper: Photo-Sketching: Inferring Contour Drawings from Images
 
 ---
 
